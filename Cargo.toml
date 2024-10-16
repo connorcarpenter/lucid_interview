@@ -1,0 +1,6 @@
+[package]
+name = "lucid_interview"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
